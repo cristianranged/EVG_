@@ -8,6 +8,7 @@ public class UserData : MonoBehaviour
     public int playerAge;
     public int gameTime; // En minutos
     public int score; // Se puede usar para registrar puntaje
+    public string selectedTheme; //Campo para almacenar la tematica elegida
 
     private void Awake()
     {

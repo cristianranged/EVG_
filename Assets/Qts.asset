@@ -13,28 +13,28 @@ MonoBehaviour:
   m_Name: Qts
   m_EditorClassIdentifier: 
   questions:
-  - questionText: Select the Card
+  - questionText: Card
     replies:
     - 
     - 
     - 
     - 
     correctReplyIndex: 0
-  - questionText: Select the Book
+  - questionText: Book
     replies:
     - 
     - 
     - 
     - 
     correctReplyIndex: 1
-  - questionText: Select the Money
+  - questionText: Money
     replies:
     - 
     - 
     - 
     - 
     correctReplyIndex: 2
-  - questionText: Select the Cap
+  - questionText: Cap
     replies:
     - 
     - 

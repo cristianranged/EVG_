@@ -52,7 +52,7 @@ public class TimeInputManager : MonoBehaviour
         Debug.Log($"📥 Datos guardados: Nombre = {playerName}, Edad = {playerAge}, Tiempo = {gameTime} minutos");
 
         // Cambiar a la escena de juego
-        SceneManager.LoadScene("Test"); // Cambia por el nombre real de tu escena de juego
+        SceneManager.LoadScene("SelectTematic"); // Cambia por el nombre real de tu escena de juego
     }
 
 }
